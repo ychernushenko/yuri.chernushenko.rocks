@@ -1,6 +1,7 @@
-# yuri.chernushenko.com
+# [yuri.chernushenko.rocks](http://yuri.chernushenko.com)
 
 my website  
 
-## deploy  
+## deploy
+
 github pages
